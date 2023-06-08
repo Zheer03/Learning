@@ -103,7 +103,7 @@ class _OnBoaringScreenState extends State<OnBoaringScreen> {
                               height: 30.0,
                             ),
                             Text(
-                              "بەخێربێیت بۆ ئەپی ",
+                              "جۆنی کاک رەنج",
                               style: TextStyle(
                                   fontSize: 40,
                                   fontWeight: FontWeight.w700,
@@ -112,13 +112,23 @@ class _OnBoaringScreenState extends State<OnBoaringScreen> {
                             SizedBox(
                               height: 10,
                             ),
-                            Text(
-                              '"ئەزموون"',
-                              style: TextStyle(
-                                  color: Colors.white,
-                                  fontSize: 50,
-                                  fontWeight: FontWeight.w700),
-                            ),
+                            // Text(
+                            //   "بەخێربێیت بۆ ئەپی ",
+                            //   style: TextStyle(
+                            //       fontSize: 40,
+                            //       fontWeight: FontWeight.w700,
+                            //       color: Colors.white),
+                            // ),
+                            // SizedBox(
+                            //   height: 10,
+                            // ),
+                            // Text(
+                            //   '"ئەزموون"',
+                            //   style: TextStyle(
+                            //       color: Colors.white,
+                            //       fontSize: 50,
+                            //       fontWeight: FontWeight.w700),
+                            // ),
                             SizedBox(height: 12.0),
                             // Text("Connect people\naround the world",style: TextStyle(fontSize: 20,fontWeight: FontWeight.w700,color: Colors.white60,),),
                           ],
